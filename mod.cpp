@@ -1,0 +1,12 @@
+name = "UNIFactions - RHS";
+picture = "unitaf.paa";
+actionName = "UNITAF";
+action = "https://unitedtaskforce.net";
+description = "UNIFactions - RHS: Community mod which adds custom RHS based OPFOR factions";
+logo = "unitaf.paa";
+logoOver = "unitaf.paa";
+tooltip = "UNIFactions - RHS";
+tooltipOwned = "UNIFactions - RHS";
+overview = "UNIFactions - RHS";
+author = "UNITAF";
+overviewPicture = "unitaf.paa";
