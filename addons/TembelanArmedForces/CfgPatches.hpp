@@ -1,5 +1,6 @@
 class CfgPatches {
-    class O_TBNArmy_Digital {
+    class TembelanArmedForces {
+        name = "Tembelan Armed Forces";
         units[] = {
             "O_TBNArmy_Rifleman_Digital_01",
             "O_TBNArmy_Team_Leader_Digital_01",

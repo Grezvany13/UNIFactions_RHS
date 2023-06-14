@@ -5,7 +5,7 @@
 
 // TODO: Consider Mod-wide or Component-narrow versions  (or both, depending on wishes!)
 // We will use the DATE for the BUILD# in the format YYMMDD - VM
-#include "\u\unitaf\addons\main\script_version.hpp"
+#include "\u\unifactions\addons\main\script_version.hpp"
 
 #define VERSION MAJOR.MINOR.PATCHLVL.BUILD
 #define VERSION_AR MAJOR,MINOR,PATCHLVL,BUILD

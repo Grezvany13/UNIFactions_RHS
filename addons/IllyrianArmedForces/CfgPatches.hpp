@@ -1,5 +1,6 @@
 class CfgPatches {
-    class O_SerbiaArmy_Woodland {
+    class IllyrianArmedForces {
+        name = "Illyrian Armed Forces";
         units[] = {
             "O_SerbiaArmy_Rifleman_Woodland_01",
             "O_SerbiaArmy_Squad_Leader_Woodland_01",

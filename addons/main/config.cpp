@@ -11,8 +11,6 @@ class CfgPatches {
             "cba_main",
             "ace_main"
         };
-        author = ECSTRING(main,author);
-        url = ECSTRING(main,url);
         VERSION_CONFIG;
     };
 };
@@ -20,8 +18,6 @@ class CfgPatches {
 class CfgMods {
     class PREFIX {
         dir = "@UNIFactions_RHS";
-        author = ECSTRING(main,author);
-        url = ECSTRING(main,url);
         name = "UNIFactions - RHS";
         hidePicture = 0;
         hideName = 1;
